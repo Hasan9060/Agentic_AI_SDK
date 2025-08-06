@@ -5,41 +5,29 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Hasan9060/Online_session_Alihasan)
 ![Issues](https://img.shields.io/github/issues/Hasan9060/Online_session_Alihasan)
 
-> 📚 Python assignments from online sessions led by **Ali Hasan**.
+> **Program:** Agentic AI & OpenSDK  
+  **Organization:** GIAIC – Governor Initiative for AI & Computing  
+  **Focus:** Building intelligent autonomous agents using OpenAI tools and SDKs  
 
 ---
 
-## 📌 About This Repository
+## 📚 Resources
 
-This repository contains a series of Python practice tasks, notes, and exercises from online sessions.  
-It documents my learning and growth in Python, under the guidance of a dedicated mentor.
+- [OpenAI Documentation](https://platform.openai.com/docs)
+- [OpenSDK GitHub](https://github.com/OpenAI)
+- [Chainlit Documentation](https://docs.chainlit.io/get-started/overview)
 
 ---
 
 ## 🎓 Mentor
 
-👨‍🏫 **Ali Hasan**  
+👨‍🏫 **Sir Bilal khan & Sir Bilal Fareed**  
 Guiding learners through practical and conceptual understanding of Python.
 
 ---
 
-## 🤖 AI Agent Grid (GitHub Contributions)
-
 > "Training an AI Agent… tracking my commits like intelligent nodes lighting up in the matrix."
 
-![AI Agent Grid](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![AI Agent Grid](https://media.istockphoto.com/id/1488474034/vector/artificial-intelligence-concept-banner-for-web-site-or-mobile-app-landing-page-with-ai.jpg?s=170667a&w=0&k=20&c=ARul0tJB1HWf3N8TfxlfCwh90CKAn1RSaK0SRltZjZs=)
 
----
-
-### 🛠 Want to customize your own?
-
-You can fork or build your own "AI-styled" animation grid using this snake project:
-
-- GitHub Snake Animation: [Platane/snk](https://github.com/Platane/snk)
-- Customize your snake to use different colors or themes
-- Add a glowing "AI node" effect using SVG filters (advanced)
-
----
-
-Let me know if you want a custom SVG with a glowing **AI node trail** (instead of a snake), I can help guide you on how to make one using SVG code or through a GitHub Actions workflow. 🧠✨
 
